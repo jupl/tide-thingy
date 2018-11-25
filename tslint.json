@@ -1,0 +1,7 @@
+{
+    "extends": ["tslint-eslint-rules"],
+    "rules": {
+        "no-var-keyword": true,
+        "object-curly-spacing": [true, "never"]
+    }
+}
